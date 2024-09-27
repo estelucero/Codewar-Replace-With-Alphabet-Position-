@@ -1,0 +1,15 @@
+C:\Users\estel\source\repos\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net6.0\Replace With Alphabet Position.csproj.AssemblyReference.cache
+C:\Users\estel\source\repos\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net6.0\Replace With Alphabet Position.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estel\source\repos\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net6.0\Replace With Alphabet Position.AssemblyInfoInputs.cache
+C:\Users\estel\source\repos\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net6.0\Replace With Alphabet Position.AssemblyInfo.cs
+C:\Users\estel\source\repos\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net6.0\Replace With Alphabet Position.csproj.CoreCompileInputs.cache
+C:\Users\estel\source\repos\Replace With Alphabet Position\Replace With Alphabet Position\bin\Debug\net6.0\Replace With Alphabet Position.exe
+C:\Users\estel\source\repos\Replace With Alphabet Position\Replace With Alphabet Position\bin\Debug\net6.0\Replace With Alphabet Position.deps.json
+C:\Users\estel\source\repos\Replace With Alphabet Position\Replace With Alphabet Position\bin\Debug\net6.0\Replace With Alphabet Position.runtimeconfig.json
+C:\Users\estel\source\repos\Replace With Alphabet Position\Replace With Alphabet Position\bin\Debug\net6.0\Replace With Alphabet Position.dll
+C:\Users\estel\source\repos\Replace With Alphabet Position\Replace With Alphabet Position\bin\Debug\net6.0\Replace With Alphabet Position.pdb
+C:\Users\estel\source\repos\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net6.0\Replace With Alphabet Position.dll
+C:\Users\estel\source\repos\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net6.0\refint\Replace With Alphabet Position.dll
+C:\Users\estel\source\repos\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net6.0\Replace With Alphabet Position.pdb
+C:\Users\estel\source\repos\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net6.0\Replace With Alphabet Position.genruntimeconfig.cache
+C:\Users\estel\source\repos\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net6.0\ref\Replace With Alphabet Position.dll
